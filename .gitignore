@@ -48,3 +48,12 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Terraform 
+.terraform.lock.hcl
+.terraform/
+plan.tfout
+
+# Generic
+*.zip
+scripts/python_extensions/extensions/lib/*
+
